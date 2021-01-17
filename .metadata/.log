@@ -1516,3 +1516,324 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:13.623
+!MESSAGE The POM for systems.comodal:collision:jar:0.3.3 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:13.637
+!MESSAGE The POM for com.github.FastFilter:fastfilter_java:jar:bf0b02297f is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.637
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-data-rest:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-data-rest:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.647
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-data-rest:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-data-rest:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.663
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-data-rest:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-data-rest:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.674
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-data-rest:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-data-rest:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.694
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-data-solr:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-data-solr:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.716
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-data-solr:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-data-solr:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.727
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-data-solr:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-data-solr:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.743
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-data-solr:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-data-solr:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.758
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-freemarker:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-freemarker:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.770
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-freemarker:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-freemarker:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.783
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-freemarker:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-freemarker:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.793
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-freemarker:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-freemarker:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.811
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-groovy-templates:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-groovy-templates:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.821
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-groovy-templates:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-groovy-templates:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.832
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-groovy-templates:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-groovy-templates:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.842
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-groovy-templates:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-groovy-templates:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.855
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-hateoas:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-hateoas:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.897
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-hateoas:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-hateoas:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.914
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-hateoas:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-hateoas:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.931
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-hateoas:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-hateoas:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.963
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-integration:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-integration:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:15.990
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-integration:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-integration:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.006
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-integration:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-integration:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.020
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-integration:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-integration:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.045
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jersey:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jersey:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.061
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jersey:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jersey:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.080
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jersey:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jersey:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.100
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jersey:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jersey:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.117
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jetty:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jetty:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.139
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jetty:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jetty:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.157
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jetty:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jetty:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.167
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jetty:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jetty:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.183
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jooq:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jooq:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.198
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jooq:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jooq:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.209
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jooq:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jooq:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.222
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jooq:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jooq:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.242
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jta-atomikos:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jta-atomikos:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.258
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jta-atomikos:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jta-atomikos:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.269
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jta-atomikos:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jta-atomikos:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.285
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-jta-atomikos:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-jta-atomikos:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.299
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-log4j2:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-log4j2:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.310
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-log4j2:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-log4j2:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.325
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-log4j2:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-log4j2:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.344
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-log4j2:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-log4j2:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.368
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-mail:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-mail:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.381
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-mail:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-mail:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.394
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-mail:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-mail:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.405
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-mail:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-mail:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.424
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-mustache:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-mustache:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.441
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-mustache:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-mustache:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.456
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-mustache:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-mustache:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.467
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-mustache:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-mustache:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.489
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-oauth2-client:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-oauth2-client:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.504
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-oauth2-client:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-oauth2-client:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.515
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-oauth2-client:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-oauth2-client:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.533
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-oauth2-client:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-oauth2-client:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.553
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-oauth2-resource-server:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-oauth2-resource-server:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.573
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-oauth2-resource-server:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-oauth2-resource-server:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.588
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-oauth2-resource-server:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-oauth2-resource-server:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.597
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-oauth2-resource-server:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-oauth2-resource-server:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.619
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-quartz:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-quartz:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.636
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-quartz:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-quartz:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.648
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-quartz:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-quartz:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.664
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-quartz:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-quartz:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.685
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-reactor-netty:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-reactor-netty:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.696
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-reactor-netty:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-reactor-netty:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.713
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-reactor-netty:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-reactor-netty:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.723
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-reactor-netty:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-reactor-netty:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.744
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-rsocket:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-rsocket:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.761
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-rsocket:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-rsocket:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.778
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-rsocket:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-rsocket:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.788
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-rsocket:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-rsocket:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.804
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-security:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-security:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.822
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-security:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-security:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.832
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-security:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-security:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.843
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-security:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-security:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.865
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-thymeleaf:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-thymeleaf:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.878
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-thymeleaf:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-thymeleaf:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.893
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-thymeleaf:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-thymeleaf:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.906
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-thymeleaf:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-thymeleaf:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.925
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-undertow:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-undertow:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.941
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-undertow:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-undertow:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.957
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-undertow:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-undertow:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.970
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-undertow:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-undertow:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:16.990
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-validation:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-validation:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:17.006
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-validation:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-validation:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:17.023
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-validation:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-validation:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:17.040
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-validation:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-validation:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:17.054
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-webflux:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-webflux:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:17.073
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-webflux:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-webflux:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:17.089
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-webflux:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-webflux:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:17.111
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-webflux:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-webflux:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:17.132
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-websocket:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-websocket:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:17.149
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-websocket:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-websocket:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:17.170
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-websocket:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-websocket:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:17.190
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-websocket:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-websocket:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:17.209
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-web-services:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-web-services:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:17.223
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-web-services:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-web-services:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:17.236
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-web-services:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/milestone was cached in the local repository, resolution will not be reattempted until the update interval of spring-milestones has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-web-services:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-milestones (https://repo.spring.io/milestone): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:17.256
+!MESSAGE Failure to transfer org.springframework.boot:spring-boot-starter-web-services:2.5.0-SNAPSHOT/maven-metadata.xml from https://repo.spring.io/snapshot was cached in the local repository, resolution will not be reattempted until the update interval of spring-snapshots has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.boot:spring-boot-starter-web-services:2.5.0-SNAPSHOT/maven-metadata.xml from/to spring-snapshots (https://repo.spring.io/snapshot): No connector factories available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:44:32.689
+!MESSAGE The POM for com.google.android.gms:play-services-tasks:jar:16.0.1 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:48:27.623
+!MESSAGE The POM for com.oracle.database.debug:ojdbc10_g:jar:19.8.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:48:28.540
+!MESSAGE The POM for com.oracle.database.debug:ojdbc8_g:jar:19.8.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:48:29.429
+!MESSAGE The POM for com.oracle.database.debug:ojdbc8dms_g:jar:19.8.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-17 14:48:30.131
+!MESSAGE The POM for com.oracle.database.debug:ojdbc10dms_g:jar:19.8.0.0 is missing, no dependency information available
