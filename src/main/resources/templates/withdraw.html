@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+        	<h1>Withdraw money</h1>
+        	<p th:text="${message}" />
+    <form action="#" th:action="@{/withdraw}" method="post">
+    	<p>Amount: <input name="amount" type="text" /></p>
+        <p><input type="submit" value="Submit" /></p>
+    </form>
+</body>
+</html>
