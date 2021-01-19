@@ -1,4 +1,4 @@
-package com.bank_system.Bank.System.Spring.Boot;
+package com.bank_system.Bank.System.Spring.models;
 
 public class Account {
 	

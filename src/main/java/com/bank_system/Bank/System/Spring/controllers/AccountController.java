@@ -8,9 +8,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 
-import com.bank_system.Bank.System.Spring.Boot.Account;
+import com.bank_system.Bank.System.Spring.models.Account;
 
 @Controller
 public class AccountController {
